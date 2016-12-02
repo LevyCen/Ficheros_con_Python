@@ -9,3 +9,5 @@ for linea in file.readlines():
     contador = contador + 1
 
 print contador
+#Cerramos el archivo
+file.close()
